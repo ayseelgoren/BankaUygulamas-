@@ -4,4 +4,3 @@
 - MSSQL <br>
 # Ekran Görüntüleri<br>
 ![1](https://user-images.githubusercontent.com/37252259/73546839-f4989680-444e-11ea-9bd3-11065de1fa26.PNG)<br>
-![5](https://user-images.githubusercontent.com/37252259/73546864-feba9500-444e-11ea-8e6d-24ea6ae79712.PNG)
